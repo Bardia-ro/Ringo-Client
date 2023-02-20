@@ -1,3 +1,3 @@
 # Ringo-Client
 
-A place for free range conversation
+This client will allow users to create pages to review games based on their experiences.
